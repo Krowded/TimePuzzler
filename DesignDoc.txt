@@ -1,0 +1,12 @@
+"Design Doc"
+
+A timer is set at the start of each level
+
+While the timer is running the player has control of one character. Each input the player makes is saved in that character and played out when the player uses a different character.
+
+When the timer runs out or the player hits the toggle button the timer restarts and the player plays the next character
+
+
+More ideas:
+
+Have a level where the player uses the same character over and over again, but is only allowed one of the control buttons each time. The combined input over several turns might be fun. (Use a ball and do a Super Monkey Ball-type puzzle for example)

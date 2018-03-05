@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyAssets\PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets\MyAssets\LevelClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\PlayerList.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\PlayerMovement.cs" Line="149" Column="73" />
+      <File FileName="Assets\MyAssets\DrawPath.cs" Line="20" Column="1" />
+      <File FileName="Assets\MyAssets\InputController.cs" Line="60" Column="46" />
+      <File FileName="Assets\MyAssets\InputStruct.cs" Line="1" Column="1" />
+      <File FileName="Assets\MyAssets\DisplayTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\WinScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
